@@ -3,3 +3,5 @@ Repo to contain all files from my 2022 CSC620 (Natural Language Technologies) cl
 
 ## What to expect...
 This repo contains my jupyter notebooks and the datasets used during this class.
+
+All datasets were from Kaggle.

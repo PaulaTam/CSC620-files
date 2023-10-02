@@ -1,0 +1,11 @@
+Document,Predicted Class,Actual Class
+This movie was really great!,negative,positive
+"It was just so bad, what a waste of money.",negative,negative
+Now this is one of my new favorite movies!,positive,positive
+Poor writing and characters. Not worth it.,positive,negative
+Thoroughly entertaining from start to finish.,positive,positive
+Loved every second of it!,negative,positive
+Nothing interesting happened.,negative,negative
+So boring that I fell asleep halfway through.,negative,negative
+Trash movie. Complete crap.,positive,negative
+I liked the movie a lot.,negative,positive
